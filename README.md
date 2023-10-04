@@ -5,6 +5,7 @@
 ```bash
 npx @crystallize/cli-next@latest install remix-run
 ```
+builder：npx @crystallize/cli-next@latest build remix-run
 
 And you got your project running thanks to :
 
