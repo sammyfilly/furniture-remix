@@ -47,7 +47,7 @@
         "redis": "^4.5.1",
         "sharp": "^0.31.2",
         "uuid": "^9",
-        "zod": "^3.20.2"
+        "zod": "^3.22.3"
     },
     "devDependencies": {
         "@playwright/test": "^1.28.1",
