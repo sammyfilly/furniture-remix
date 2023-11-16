@@ -45,7 +45,7 @@
         "react-debounce-input": "^3.3.0",
         "react-dom": "^18",
         "redis": "^4.5.1",
-        "sharp": "^0.31.2",
+        "sharp": "^0.32.0",
         "uuid": "^9",
         "zod": "^3.22.3"
     },
